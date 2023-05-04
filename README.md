@@ -1,5 +1,5 @@
 # Taller-2-DSS
 
-#Wilmer Ezequiel Garcia Carrero GC220321
+Wilmer Ezequiel Garcia Carrero GC220321
 
-#Bryan Adonay Flores Vasquez
+Bryan Adonay Flores Vasquez
